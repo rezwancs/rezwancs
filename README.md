@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Angular, NodeJS pet project
 - 🌱 I’m currently learning Angular, Javascript in depth
-- ⚡ Languages: Java, C++, Python3, PHP
+- ⚡ Languages: Javascript, Java
 
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwan2525&theme=merko" alt="rezwan2525"  /> 
