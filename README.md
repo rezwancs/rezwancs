@@ -6,8 +6,8 @@
 #### I'm Rezwan Al Kaoser, I'm a software engineer 👨‍💻 who is passionate about problem solving.  
 
 - 🔭 I’m currently working on Angular and Django
-- 🌱 I’m currently learning Angular, Javascript in depth and Django
-- ⚡ Languages: Javascript, Java, Python
+- 🌱 I’m currently learning Django
+- ⚡ Languages: Javascript, Python
 
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwan2525&theme=merko" alt="rezwan2525"  /> 
