@@ -10,13 +10,13 @@
 - ⚡ Languages: Javascript, Python
 
 ## Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwan2525&theme=merko" alt="rezwan2525"  /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrezwan&theme=merko" alt="imrezwan"  /> 
 
 ## My Stats
-[![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwan2525&theme=merko)](https://github.com/rezwan2525/github-readme-stats&?theme=dark)
+[![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrezwan&theme=merko)](https://github.com/imrezwan/github-readme-stats&?theme=dark)
 
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=rezwan2525&theme=github" alt="rezwan2525" /></p> 
+[![Rezwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imrezwan&theme=github)](https://github.com/imrezwan/github-readme-activity-graph)
 
 <p></p>
 
