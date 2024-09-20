@@ -5,9 +5,10 @@
 ## Hello world 👋, 
 #### I'm Rezwan Al Kaoser, I'm a software engineer 👨‍💻 who is passionate about problem solving and open source.
 
-- 🔭 I’m currently working on Angular and Django
+- 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning ReactJS
-- ⚡ Languages: Javascript, Python
+- ⚡ Languages: Javascript, Typescript, PHP
+- ⚡ Framework: Angular, Laravel
 
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrezwan&theme=merko" alt="imrezwan"  /> 
