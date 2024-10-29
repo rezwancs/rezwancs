@@ -5,8 +5,8 @@
 ## Hello world 👋, 
 #### I'm Rezwan Al Kaoser, I'm a software engineer 👨‍💻 who is passionate about problem solving and open source.
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working with Shopify Theme Development, Angular
+- 🌱 I’m currently learning Shopify App Development
 - ⚡ Languages: Javascript, Typescript, PHP
 - ⚡ Framework: Angular, Laravel
 
