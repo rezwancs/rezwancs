@@ -11,13 +11,13 @@
 - ⚡ Framework: Angular, Laravel
 
 ## Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrezwan&theme=merko" alt="imrezwan"  /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwancs&theme=merko" alt="rezwancs"  /> 
 
 ## My Stats
-[![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrezwan&theme=merko)](https://github.com/imrezwan/github-readme-stats&?theme=dark)
+[![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwancs&theme=merko)](https://github.com/rezwancs/github-readme-stats&?theme=dark)
 
 ## Contribution Graph
-[![Rezwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imrezwan&theme=github)](https://github.com/imrezwan/github-readme-activity-graph)
+[![Rezwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwancs&theme=github-compact)](https://github.com/rezwancs/github-readme-activity-graph)
 
 <p></p>
 
