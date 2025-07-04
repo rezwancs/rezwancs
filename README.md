@@ -5,10 +5,10 @@
 ## Hello world 👋, 
 #### I'm Rezwan Al Kaoser, I'm a software engineer 👨‍💻 who is passionate about problem solving and open source.
 
-- 🔭 I’m currently working with Shopify Theme Development, Angular
-- 🌱 I’m currently learning Shopify App Development
-- ⚡ Languages: Javascript, Typescript, PHP
-- ⚡ Framework: Angular, Laravel
+- 🔭 I’m currently working with Shopify Theme and App Development
+- 🌱 I’m currently learning generative AI
+- ⚡ Languages: Liquid, Javascript, Typescript, PHP
+- ⚡ Framework: Remix, Laravel
 
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwancs&theme=merko" alt="rezwancs"  /> 
